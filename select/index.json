@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Junkies",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-15T19:14:46.702875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Junkie's Prayer",
+      "artist": "Mirwais",
+      "has_synced": false,
+      "path": "select/01_Junkie's_Prayer_Mirwais.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Streets - Club Junkies Radio Edit",
+      "artist": "Camille Jones",
+      "has_synced": false,
+      "path": "select/02_The_Streets_-_Club_Junkies_Radio_Edit_Camille_Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midi Junkies",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/03_Midi_Junkies_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Hey We're The Junkies",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/04_Hey_Hey_We're_The_Junkies_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Junkie's Blues",
+      "artist": "Queensrÿche",
+      "has_synced": true,
+      "path": "select/05_A_Junkie's_Blues_Queensrÿche.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Leave My Heart Out Of This - Buzz Junkies Remix",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/06_Leave_My_Heart_Out_Of_This_-_Buzz_Junkies_Remix_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Leave My Heart Out Of This (Buzz Junkies Remix)",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/07_Leave_My_Heart_Out_Of_This_(Buzz_Junkies_Remix)_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Junkie's Promise",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/08_Junkie's_Promise_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Want Candy - Club Junkies Mix",
+      "artist": "Melanie C",
+      "has_synced": false,
+      "path": "select/09_I_Want_Candy_-_Club_Junkies_Mix_Melanie_C.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rabiosa (Club Junkies club remix)",
+      "artist": "Shakira feat. El Cata",
+      "has_synced": false,
+      "path": "select/10_Rabiosa_(Club_Junkies_club_remix)_Shakira_feat._El_Cata.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rabiosa (Club Junkies Club Remix) feat. El Cata",
+      "artist": "Shakira feat El Cata",
+      "has_synced": false,
+      "path": "select/11_Rabiosa_(Club_Junkies_Club_Remix)_feat._El_Cata_Shakira_feat_El_Cata.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rabiosa - Club Junkies Radio Remix",
+      "artist": "Shakira feat. Pitbull",
+      "has_synced": false,
+      "path": "select/12_Rabiosa_-_Club_Junkies_Radio_Remix_Shakira_feat._Pitbull.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rabiosa (Club Junkies Radio Remix) feat. Pitbull",
+      "artist": "Shakira feat Pitbull",
+      "has_synced": false,
+      "path": "select/13_Rabiosa_(Club_Junkies_Radio_Remix)_feat._Pitbull_Shakira_feat_Pitbull.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Want (Buzz Junkies Club Remix)",
+      "artist": "Natalie Imbruglia",
+      "has_synced": false,
+      "path": "select/14_Want_(Buzz_Junkies_Club_Remix)_Natalie_Imbruglia.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Water and a Flame (Buzz Junkies club mix)",
+      "artist": "Daniel Merriweather feat. Adele",
+      "has_synced": false,
+      "path": "select/15_Water_and_a_Flame_(Buzz_Junkies_club_mix)_Daniel_Merriweather_feat._Adele.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Water And A Flame (Buzz Junkies Club Mix)",
+      "artist": "Daniel Merriweather (Feat. Adele)",
+      "has_synced": false,
+      "path": "select/16_Water_And_A_Flame_(Buzz_Junkies_Club_Mix)_Daniel_Merriweather_(Feat._Adele).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Junkies on a High",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/17_Junkies_on_a_High_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Genocide Junkies",
+      "artist": "Black Label Society",
+      "has_synced": true,
+      "path": "select/18_Genocide_Junkies_Black_Label_Society.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Junkies on a High",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/19_Junkies_on_a_High_Green_Day.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Junkies",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_Junkies_=LOVE.txt"
+    }
+  ]
+}
